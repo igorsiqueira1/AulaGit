@@ -1,1 +1,1 @@
-Teste
+Teste phpinfo
